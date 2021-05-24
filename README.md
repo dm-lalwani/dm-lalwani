@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dm-lalwani
+- 👋 Hi, I’m Dinesh Lalwani
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Nodejs & React
 - 💞️ I’m looking to collaborate on Full Stack Web Development projects
