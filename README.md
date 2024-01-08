@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dinesh Lalwani
-- 👀 I’m interested in Web Development
+- 👀 Working as a Frontend Software Developer
 - 🌱 Experienced Reactjs Developer (2.9yrs)
-- 💞️ I’m looking to collaborate on Full Stack Web Development projects
+- 💞️ Crafting Pixel-Perfect Experiences
 - 📫 You can reach me through LinkedIn ->  https://www.linkedin.com/in/dm-lalwani/
 
 <!---
