@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dinesh Lalwani
+- 👋 Hi, I’m Dinesh Mahesh Lalwani
 - 👀 Working as a Frontend Software Developer
 - 🌱 Experienced Reactjs Developer (2.9yrs)
 - 💞️ Crafting Pixel-Perfect Experiences
